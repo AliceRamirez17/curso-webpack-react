@@ -50,3 +50,10 @@ npm install html-loader html-webpack-plugin -D
 
 9. Configuración de scripts en package.json
 10. Agregar la configuración del plugin html-webpack-plugin en webpack.config.js
+11. Instalar sass, compilador de css y loader de css y sass
+
+```
+npm install mini-css-extract-plugin css-loader style-loader sass sass-loader -D
+```
+
+12. Agregar la configuración del plugin mini-css-extract-plugin en webpack.config.js
