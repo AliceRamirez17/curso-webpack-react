@@ -71,3 +71,5 @@ npm install css-minimizer-webpack-plugin terser-webpack-plugin clean-webpack-plu
 ```
 
 14. Agregar la configuración de css-minimizer, terser-plugin y clean-plugin
+
+15. Desplegar el proyecto en Netlify
